@@ -1,0 +1,21 @@
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\SLV for dooku 2 devices.exe.config
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\SLV for dooku 2 devices.exe
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\SLV for dooku 2 devices.pdb
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\Appium.Net.dll
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\Castle.Core.dll
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\nunit.framework.dll
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\WebDriver.dll
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\WebDriver.Support.dll
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\Castle.Core.xml
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\nunit.framework.xml
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\WebDriver.xml
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\bin\Debug\WebDriver.Support.xml
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\obj\Debug\SLV for dooku 2 devices.csproj.AssemblyReference.cache
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\obj\Debug\SLV for dooku 2 devices.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\obj\Debug\SLV for dooku 2 devices.csproj.CoreCompileInputs.cache
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\obj\Debug\SLV for dooku 2 devices.csproj.CopyComplete
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\obj\Debug\SLV for dooku 2 devices.exe
+C:\Users\xxdayred\source\repos\SLV for dooku 2 devices\obj\Debug\SLV for dooku 2 devices.pdb
